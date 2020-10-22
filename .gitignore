@@ -1,0 +1,3 @@
+env/
+dockerInstaller.sh
+flask/app/__pycache__/
